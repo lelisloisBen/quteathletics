@@ -1,0 +1,66 @@
+.section {
+   padding-top: 80px;
+   padding-bottom: 30px;
+   background-color: #f0e8e8;
+}
+.tabContent {
+    background-color: white;
+}
+.tab1Color {
+    background-color: #BBBAFF;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.tab2Color {
+    background-color:#BBBAFF;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.tab3Color {
+    background-color: #FFC2E2;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.tab4Color {
+    background-color: #F4FDB1;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.tab5Color {
+    background-color: #7C8BFF;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.tab6Color {
+    background-color: #FFC2E2;
+    border: 1px solid white!important;
+    color: #141414;
+    font-weight: bold;
+}
+.btnIwash {
+    margin: 10px;
+    background-color: #7CD1F9;
+    color: #000000;
+    padding: 10px;
+    border-radius: 100px;
+    font-weight: bold;
+    text-decoration: none;
+}
+.btnIwash:hover {
+    background-color: #BBD5E4;
+    text-decoration: none;
+}
+
+.links {
+    text-decoration: none;
+    color: #000000;
+}
+.links:hover {
+    text-decoration: none!important;
+    color: #000000;
+}
